@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning UEFN
 - 👯 I’m looking to collaborate on UE5 spatial VR project
 - 💬 Ask me about your project problem
-- 📫 Reach me: shuvro.ahmed.sa@gmail.com
+- 📫 Reach me: istiak.ahmed.vr@gmail.com
 <!--
 **Istiak-VR-dev/Istiak-VR-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
